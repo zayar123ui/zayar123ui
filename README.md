@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zayar</h1>
-<h3 align="center">A Backend Developer with Node.js and NestJS</h3>
+<h1 align="start">Hi 👋, I'm Zayar</h1>
+<h3 align="start">I'm a Node.js and NestJS developer.</h3>
+<h3 align="start">Experience over 3 years</h3>
+<h3 align="start">Hyper active and clean code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayar123ui&label=Profile%20views&color=0e75b6&style=flat" alt="zayar123ui" /> </p>
 
